@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=VT323&display=swap');
+
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.top h1{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.top p{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1.3em;
+    color: #808080;
+}
+
+.card1{
+    position: relative;
+    top: 5em;
+    left: 15em;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(232, 247, 232);
+    border: solid 1px #000;
+    border-radius: 20px;
+}
+
+.card2{
+    position: relative;
+    top: -10.5em;
+    left: 50em;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(232, 247, 232);
+    border: solid 1px #000;
+    border-radius: 20px;
+}
+
+.card3{
+    position: relative;
+    top: -26em;
+    left: 85em;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(232, 247, 232);
+    border: solid 1px #000;
+    border-radius: 20px;
+}
+
+.card4{
+    position: relative;
+    top: -20em;
+    left: 67em;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(232, 247, 232);
+    border: solid 1px #000;
+    border-radius: 20px;
+}
+
+.card5{
+    position: relative;
+    top: -36em;
+    left: 33em;
+    width: 300px;
+    height: 250px;
+    background-color: rgb(232, 247, 232);
+    border: solid 1px #000;
+    border-radius: 20px;
+}
+
+.card1 h2{
+    text-align: center;
+    position: relative;
+    top: 10px;
+    
+}
+
+.card2 h2{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.card3 h2{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.card4 h2{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.card5 h2{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.card1 p{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    font-size: 1.5em;
+}
+
+.card2 p{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    font-size: 1.5em;
+}
+
+.card3 p{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    font-size: 1.5em;
+}
+
+.card4 p{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    font-size: 1.5em;
+}
+
+.card5 p{
+    position: relative;
+    top: 5px;
+    left: 5px;
+    font-size: 1.5em;
+}

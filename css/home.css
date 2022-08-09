@@ -1,0 +1,131 @@
+html{
+    overflow-x: hidden ;
+}
+.topo{
+    background-color: rgb(134, 241, 134);
+    margin-left: 29%;
+    width: 100%;
+    overflow: hidden;
+}
+.topo img{
+    width: 20%;
+}
+.topo a{
+    color: black;
+    position: relative;
+    left: -10em;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.topo #tutorial{
+    Color: white;
+}
+
+#explanation {
+    border: 1px solid green;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 800px;
+    background-color: rgb(232, 247, 232);
+
+}
+
+#explanation h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#explanation p{
+    position: relative;
+    top: 50px;
+    left: 75px;
+    width: 85%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+}
+
+
+#threads{
+    border: 1px solid green;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 1000px;
+    background-color: rgb(232, 247, 232);
+}
+
+#threads h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(138, 224, 138);
+    margin-top: 0px;
+    text-align: center;
+
+}
+
+.threads_contents #um{
+    position: relative;
+    border-radius: 20px;
+    border: solid 1px green;
+    top: 30px;
+    left: 50px;
+    width: 25%;
+}
+
+.threads_contents #dois{
+    position: relative;
+    border-radius: 20px;
+    border: solid 1px green;
+    top: 70px;
+    left: 350px;
+    width: 25%;
+}
+
+.threads_contents #tres{
+    position: relative;
+    border-radius: 20px;
+    border: solid 1px green;
+    top: -450px;
+    left: 690px;
+    width: 25%;
+}
+
+.threads_contents a{
+    text-decoration: none;
+    color: green;
+}
+
+.threads_contents #primeiro{
+    position: relative;
+    left: 57px;
+    top: 20px
+}
+
+.threads_contents #segundo{
+    position: relative;
+    left: 380px;
+    top: 60px
+}
+
+.threads_contents #terceiro{
+    position: relative;
+    left: 745px;
+    top: -460px
+}
+
+#copyright footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 15px;
+    margin-top: 40px;
+    margin-left: 680px;
+}
+
+#copyright footer a{
+    color: green;
+}
+
+

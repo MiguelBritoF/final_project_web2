@@ -1,0 +1,95 @@
+		
+		* {
+			font-family: 'Ubuntu', sans-serif;
+		}
+		
+		body {
+			background-color: #fff; 			
+			text-align: center;			
+			margin: 25px;
+		 }
+		 
+		 .container {
+			background-color: #d8f1de; 	
+			padding: 15px;
+			text-align: center;			
+		 }
+		 
+		 h1 {
+			color: #2E2E2E;
+		 }
+		 
+		 h2 {
+			color: #2E2E2E;
+			font-size: 14px;
+		 }
+		 
+		 .about h1 {
+		  font-size: 16px;
+		 }
+		 
+		 .about p {
+			color: #A5A5A5;
+			font-weight: 400;
+		 }
+		 
+		 .about {
+			padding: 30px;
+			margin: auto;
+			width: 60%;
+			background-color: #fff; 
+			border-radius: 0%;
+			text-align: center;
+		 }
+		
+		img.avatar {
+			width:200px;
+			border-radius: 10%;
+			filter: grayscale(1);
+			transition: 0.5s;
+		}
+		
+		img.ico {
+			width:20px;			
+			filter: grayscale(1);
+			transition: 0.5s;
+			
+		}
+		
+		img:hover {				
+			filter: grayscale(0);
+			cursor: pointer;
+			border-radius: 50%;
+			box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+		}
+		
+		.negrito {
+			font-weight: 700;
+		}
+		
+		#idade {
+			display: block;
+			margin-top: 7px;
+			margin-bottom: 15px;
+			margin-left: 62em;
+		}
+		#estados {
+			display: block;
+			margin-top: 7px;
+			margin-bottom: 15px;
+			margin-left: 67em;
+		}
+
+		#button-home {
+			position: relative;
+			top: 25px;
+			left: -500;
+			background-color: #89df8c;
+			border-radius: 7px;
+			color: black;
+			padding: 15px 80px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+		}

@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=VT323&display=swap');
+
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.topo img{
+    width: 15%;
+    position: absolute;
+    top: 1.8em;
+    left: 5%;
+}
+
+.topo #button-about{
+    position: absolute;
+    top: 5em;
+    right: 5%;
+    background-color: #65da69;
+    border-radius: 7px;
+    color: black;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.topo h2{
+    position: absolute;
+    top: 5em;
+    right: 15%;
+    padding: 15px 50px;
+    font-size: 16px;
+}
+
+.topo #button-explore{
+    position: absolute;
+    top: 6em;
+    right: 16%;
+    background-color: #808080;
+    border-radius: 100%;
+    padding: 0.5% 0.5%;
+}
+
+.center{
+    width: 25%;
+    margin-left: 20em;
+    margin-top: 20em;
+    
+}
+
+.info h1{
+    font-size: 2.5em;
+}
+
+.info p{
+    font-size: 1.2em;
+    color: #808080;
+}
+
+.forms{
+    width: 27%;
+    height: 40%;
+    background-color: rgb(232, 247, 232);
+    position: absolute;
+    top: 17em;
+    left: 70em;
+    border-radius: 10px;
+}
+
+.forms h3{
+    font-size: 1.4em;
+    text-align: center;
+    margin-top: 2em;
+}
+.forms #button-login-email {
+    position: relative;
+    top: 25px;
+    left: 10%;
+    background-color: #65da69;
+    border-radius: 7px;
+    color: black;
+    padding: 15px 140px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.forms #button-singup-email {
+    position: relative;
+    top: 150px;
+    left: 10%;
+    background-color: #b3b3b3;
+    border-radius: 7px;
+    color: black;
+    padding: 15px 135px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.forms p{
+    font-size: 15px;
+    position: relative;
+    top: 3em;
+    left: 6em;
+}
+
+.forms hr{
+
+    position: absolute;
+    top: 15em;
+    left: 3.5em;
+    width: 75%;
+}
+

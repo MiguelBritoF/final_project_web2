@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=VT323&display=swap');
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+textarea {
+    position: absolute;
+    left: 41em;
+    top: 100px;
+    width: 800px;
+    height: 500px;
+    background-color: #cccccc;
+    border: 1px solid black;
+    border-radius:8px;
+    color: black;
+}
+
+#code p{
+    position: relative;
+    left: 730px;
+    top: 520px;
+}
+#comments {
+    border: 1px solid green;
+    border-radius: 10px;
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 900px;
+    background-color: rgb(232, 247, 232);
+}
+
+#comments #user{
+    position: relative;
+    left: 20px;
+    top: 100px;
+    width: 50px;
+    height: 50px;
+}
+#comments #comentarios{
+    position: relative;
+    background-color: white;
+    top: 60px;
+    left: 90px;
+    width: 300px;
+    height: 20px
+}
+
+#comments p{
+    position: relative;
+    left: 100px;
+    top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#copyright footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 15px;
+    margin-top: 40px;
+    margin-left: 680px;
+}
+
+#copyright footer a{
+    color: green;
+}
